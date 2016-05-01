@@ -150,7 +150,7 @@ def get_sentence(input_phrase, dictionary, rev_dictionary, randomness = 1):
                 if len(possible_keys) > 0:
                     seed = possible_keys[np.random.randint(0,len(possible_keys) )][1]
 
-    following_words, rev_key = get_two_words(seed, dictionary, randomness = 0)
+    following_words, rev_key = get_two_words(seed, dictionary, randomness = 1)
 
     if following_words == None:
         myrandnum = np.random.randint(0, 10)
@@ -160,7 +160,7 @@ def get_sentence(input_phrase, dictionary, rev_dictionary, randomness = 1):
             s = key_not_found_list2[ np.random.randint(0, len(key_not_found_list2) ) ]
         return s
 
-    previous_words = get_two_words(seed, rev_dictionary, rev_key = rev_key, gen_keylist=False, randomness=0)
+    previous_words = get_two_words(seed, rev_dictionary, rev_key = rev_key, gen_keylist=False, randomness=1)
     final_following_words = ' '.join(word for word in following_words if word != '.' )
     final_previous_words = ' '.join(word for word in reversed(previous_words) if word != '.' )
 

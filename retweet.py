@@ -81,7 +81,7 @@ for tweet in tweet_replies:
     response = 'Vote trump 2016 Macy'
     n = 0
     while (resp_length > 140 or 'Vote trump 2016' in response or 'Macy' in response) and n < 20:
-        response = get_sentence(text, f_dict, r_dict, randomness = 0)
+        response = get_sentence(text, f_dict, r_dict, randomness = 1)
         response = "@{0} {1}".format(user, response)
         resp_length = len(response)
         n += 1

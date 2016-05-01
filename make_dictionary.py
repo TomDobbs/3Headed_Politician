@@ -45,7 +45,7 @@ def make_dictionary(sentences):
 # with open('data/Speeches/cleanSpeech.txt') as f:
 #     speeches = f.readlines()
 
-with open('tweets/cleaned_tweets.txt') as f:
+with open('Processing/Total_cleanSpeech.txt') as f:
     tweets = f.readlines()
 
 # with open('data/debates.txt') as f:
@@ -85,7 +85,7 @@ sentences = get_sentences_from_list(tweets)
 #*********************************************************
 
 # Take sentences and make dictionary for forward direction:
-bernie_dict = make_dictionary(sentences)
+total_dict = make_dictionary(sentences)
 
 # Reverse sentences and make dictionary for backward direction:
 def reverse_sentences(sentences):
@@ -97,13 +97,13 @@ def reverse_sentences(sentences):
 
 reversed_sentences = reverse_sentences(sentences)
 
-rev_bernie_dict = make_dictionary(reversed_sentences)
+total_reversed_dict = make_dictionary(reversed_sentences)
 
 #*********************************************************
 #       Pickle all dictionaries:
 #*********************************************************
-with open('f_dict.pkl', 'wb') as f:
-    pickle.dump(bernie_dict, f)
+with open('Pickles/forward_dict.pkl', 'wb') as f:
+    pickle.dump(total_dict, f)
 
-with open('r_dict.pkl', 'wb') as f:
-    pickle.dump(rev_bernie_dict, f)
+with open('Pickles/reversed_dict.pkl', 'wb') as f:
+    pickle.dump(total_reversed_dict, f)

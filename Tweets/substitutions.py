@@ -1,3 +1,4 @@
+# Aditi Raval, Trump Bot, (2015), trump-bot, https://github.com/araval/trump-bot
 '''
 This script contains functions and lists to aid cleaning tweets.
 It is imported in clean_tweets.py

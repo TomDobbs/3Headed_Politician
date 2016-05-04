@@ -1,3 +1,4 @@
+# Aditi Raval, Trump Bot, (2015), trump-bot, https://github.com/araval/trump-bot
 '''
 This scripts get users tagged with '@___", goes to the corresponding
 twitter account and scrapes their real name, number of followers and

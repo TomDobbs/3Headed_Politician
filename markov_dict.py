@@ -1,4 +1,4 @@
-
+# Aditi Raval, Trump Bot, (2015), trump-bot, https://github.com/araval/trump-bot
 from bs4 import BeautifulSoup
 import cPickle as pickle
 import nltk.data

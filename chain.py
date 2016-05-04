@@ -1,3 +1,4 @@
+# Aditi Raval, Trump Bot, (2015), trump-bot, https://github.com/araval/trump-bot
 import re
 import numpy as np
 from bs4 import BeautifulSoup

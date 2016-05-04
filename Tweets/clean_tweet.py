@@ -1,3 +1,4 @@
+# Aditi Raval, Trump Bot, (2015), trump-bot, https://github.com/araval/trump-bot
 '''
 This script takes a tweet, cleans it and appends it to
 either 'cleaned_tweets.txt' or 'incomplete_tweets.txt',

@@ -5,13 +5,13 @@
 <!--### 3-Headed Politician Twitter Bot-->
 <img src="https://github.com/TomDobbs/3Headed_Politician/blob/master/Images/3HeadedPolitics_Preso_new.png" width="800" height="400" />
 
-<img src="https://github.com/TomDobbs/3Headed_Politician/blob/master/Images/3HeadedPolitics_Preso_DATA.png" width="800" height="400" />
+<img src="https://github.com/TomDobbs/3Headed_Politician/blob/master/Images/3HeadedPolitics_Preso_DATA.png" width="800" height="600" />
 
-<img src="https://github.com/TomDobbs/3Headed_Politician/blob/master/Images/3HeadedPolitics_Preso_MODEL.png" width="800" height="400" />
+<img src="https://github.com/TomDobbs/3Headed_Politician/blob/master/Images/3HeadedPolitics_Preso_MODEL.png" width="800" height="600" />
 
-<img src="https://github.com/TomDobbs/3Headed_Politician/blob/master/Images/3HeadedPolitics_Preso_FLOW.png" width="800" height="400" />
+<img src="https://github.com/TomDobbs/3Headed_Politician/blob/master/Images/3HeadedPolitics_Preso_FLOW.png" width="800" height="600" />
 
-<img src="https://github.com/TomDobbs/3Headed_Politician/blob/master/Images/3HeadedPolitics_Preso_IMPLEMENTATION.png" width="800" height="400" />
+<img src="https://github.com/TomDobbs/3Headed_Politician/blob/master/Images/3HeadedPolitics_Preso_IMPLEMENTATION.png" width="800" height="600" />
 
 <img src="https://github.com/TomDobbs/3Headed_Politician/blob/master/Images/3HeadedPolitics_Preso_TWEET_EX.png" width="800" height="400" />
 =================

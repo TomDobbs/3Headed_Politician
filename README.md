@@ -5,7 +5,7 @@
 
 <img src="https://github.com/TomDobbs/3Headed_Politician/blob/master/Images/3HeadedPolitics_Preso_twitter_home.png" width="800" height="260" />
 
-<img src="https://github.com/TomDobbs/3Headed_Politician/blob/master/Images/3HeadedPolitics_Preso_new.png" width="800" height="400" />
+<img src="https://github.com/TomDobbs/3Headed_Politician/blob/master/Images/3HeadedPolitics_Preso_new.png" width="800" height="420" />
 
 <img src="https://github.com/TomDobbs/3Headed_Politician/blob/master/Images/3HeadedPolitics_Preso_DATA.png" width="800" height="600" />
 

@@ -7,10 +7,10 @@ import nltk
 
 EMPTY_STRING = ''
 
-with open("stopwords.pkl", "rb") as f:
+with open("Pickles/stopwords.pkl", "rb") as f:
     stopwords = pickle.load(f)
 
-with open('neighbours.pkl') as f:
+with open('Pickles/neighbours.pkl') as f:
     nbs_dict = pickle.load(f)
 
 

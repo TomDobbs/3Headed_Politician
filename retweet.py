@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+# Thomas Dobbs, 3-Headed Politician, (2016), bernie clintrump, https://github.com/TomDobbs/3Headed_Politician
 import tweepy, time
 from chain_builder import get_sentence
 import cPickle as pickle

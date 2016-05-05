@@ -1,5 +1,9 @@
 # 3-Headed Politician
 #### The 3-Headed Politician is trained on recent political speeches from Donald Trump, Hillary Clinton, and Bernie Sanders. Its vocabulary originates from 12 Republican debates (for Trump) and 9 Democratic debates (for Clinton & Sanders). 
+
+<p>Twitter Link: <a href="https://twitter.com/3HeadedPolitics/">
+Bernie ClinTrump</a>.</p>
+
 <!--<img src="http://blog.iheartraves.com/wp-content/uploads/2016/04/bernie-sanders-starman.jpg" width="432" height="300" />-->
 <img src="https://github.com/TomDobbs/3Headed_Politician/blob/master/Images/3HeadedPolitics_Preso_title.png" width="800" height="500" />
 
